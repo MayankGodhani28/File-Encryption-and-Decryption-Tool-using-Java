@@ -11,13 +11,14 @@ public class AboutUs extends JFrame{
 		JTextArea text = new JTextArea();
 		c.add(text);
 		
-		text.setText("\n   This project is made by student of Maharaja Sayajirao univercity of baroda ( Computer science Department)\r\n"
+		text.setText("\n   This project is made by student of Maharaja Sayajirao University of baroda ( Computer Science Department)\r\n"
 				+ "\r\n"
 				+ "   Team member:\r\n"
-				+ "   1. Soham Zadafiya (Team Leader)\r\n"
-				+ "   2. Om Mistri\r\n"
-				+ "   3. Dhruv Dhanani\r\n"
-				+ "   4. Krish Kheni\r\n"
+				+ "   1. Jay Shekhava\r\n"
+				+ "   2. Khushal Savaliya\r\n"
+				+ "   3. Mayank Godhani\r\n"
+				+ "   4. Rudra Vadhadiya\r\n"
+				+ "   5. Brijesh Sevra\r\n"
 				+ "");
 		text.setEditable(false);
 		text.setLineWrap(true);
