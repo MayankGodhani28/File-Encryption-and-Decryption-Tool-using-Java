@@ -14,7 +14,7 @@ public class AboutUs extends JFrame{
 		text.setText("\n   This project is made by student of Maharaja Sayajirao University of baroda ( Computer Science Department)\r\n"
 				+ "\r\n"
 				+ "   Team member:\r\n"
-				+ "   1. Jay Shekhava\r\n"
+				+ "   1. Brijesh Sevra\r\n"
 				+ "   2. Khushal Savaliya\r\n"
 				+ "   3. Mayank Godhani\r\n"
 				+ "   4. Rudra Vadhadiya\r\n"
